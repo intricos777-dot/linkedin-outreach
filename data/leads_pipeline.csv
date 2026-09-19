@@ -1,0 +1,37 @@
+id,company_name,industry,company_size,location,hiring_signals_count,hiring_signal_types,total_score,priority_tier,status,contact_person,contact_title,contact_linkedin,outreach_subject,outreach_preview,created_at,updated_at,reviewed_by,review_date,review_notes,tech_stack,funding_stage,glassdoor_rating,linkedin_url,indeed_url,website,notes
+22943a6c-32d,Citi,finance,5000+,"New York, NY",3,hiring_ai_engineer; hiring_ml_engineer; hiring_data_scientist,85,HOT - Priority outreach,drafted,,,,Saw you're hiring AI Engineer — happy to help accelerate,"Hi there,
+
+I noticed Citi is currently hiring for a AI Engineer position. That's a strong signal you",2026-09-19T13:49:20.775497,2026-09-19T13:49:20.777229,,,,Python; SQL; AWS; Kubernetes; Spark; Airflow; Kafka,public,,,,citi.com,
+862437d0-5b3,State Farm,insurance,5000+,"Bloomington, IL",2,hiring_automation_engineer; hiring_rpa_developer,79,WARM - Strong candidate,drafted,,,,Your Python stack + AI agents,"Hi there,
+
+I was looking at State Farm's engineering setup — particularly your Python infrastructure",2026-09-19T13:49:20.775518,2026-09-19T13:49:20.777258,,,,Python; SQL; Azure; Guidewire; RPA; Salesforce,public,,,,statefarm.com,
+1a32a911-5f7,Atlassian,saas,5000+,"San Francisco, CA",3,hiring_ai_engineer; hiring_ml_engineer; hiring_pm_ai,78,WARM - Strong candidate,drafted,,,,Saw you're hiring AI Engineer — happy to help accelerate,"Hi there,
+
+I noticed Atlassian is currently hiring for a AI Engineer position. That's a strong signa",2026-09-19T13:49:20.775528,2026-09-19T13:49:20.777277,,,,Python; Java; AWS; Kubernetes; PostgreSQL; React; GraphQL,public,,,,atlassian.com,
+09b85120-4de,Lenovo,manufacturing,5000+,"Morrisville, NC",2,hiring_ai_engineer; hiring_ml_engineer,78,WARM - Strong candidate,drafted,,,,Saw you're hiring AI Solutions Architect — happy to help accelerate,"Hi there,
+
+I noticed Lenovo is currently hiring for a AI Solutions Architect position. That's a stro",2026-09-19T13:49:20.775533,2026-09-19T13:49:20.777293,,,,Python; C++; Azure; IoT; SCADA; SAP,public,,,,lenovo.com,
+15a64dca-598,Leidos,consulting,5000+,"Reston, VA",2,hiring_ai_engineer; hiring_ai_consultant,79,WARM - Strong candidate,drafted,,,,Saw you're hiring AI Engineer - Defense — happy to help accelerate,"Hi there,
+
+I noticed Leidos is currently hiring for a AI Engineer - Defense position. That's a stron",2026-09-19T13:49:20.775538,2026-09-19T13:49:20.777308,,,,Python; R; AWS; Azure; Kubernetes; Spark,public,,,,leidos.com,
+c4130949-aab,Accenture,consulting,5000+,"Dublin, Ireland / New York, NY",3,hiring_chief_ai_officer; hiring_ai_engineer; hiring_ai_consultant,74,WARM - Strong candidate,drafted,,,,"Saw you're hiring Managing Director, AI — happy to help accelerate","Hi there,
+
+I noticed Accenture is currently hiring for a Managing Director, AI position. That's a st",2026-09-19T13:49:20.775542,2026-09-19T13:49:20.777322,,,,Python; R; AWS; Azure; GCP; SAP; Salesforce,public,,,,accenture.com,
+dbd6be0e-397,Automated Insights,saas,51-200,"Durham, NC",1,hiring_ml_engineer,72,WARM - Strong candidate,drafted,,,,Saw you're hiring ML Engineer - NLP — happy to help accelerate,"Hi there,
+
+I noticed Automated Insights is currently hiring for a ML Engineer - NLP position. That's",2026-09-19T13:49:20.775545,2026-09-19T13:49:20.777336,,,,Python; AWS; Natural Language Generation; APIs; PostgreSQL,acquired,,,,automatedinsights.com,
+3e15ff8f-da2,PathAI,healthcare,201-1000,"Boston, MA",2,hiring_ml_engineer; hiring_ai_engineer,93,HOT - Priority outreach,drafted,,,,Saw you're hiring Senior ML Engineer — happy to help accelerate,"Hi there,
+
+I noticed PathAI is currently hiring for a Senior ML Engineer position. That's a strong s",2026-09-19T13:49:20.775549,2026-09-19T13:49:20.777349,,,,Python; PyTorch; AWS; Computer Vision; Kubernetes,series c,,,,pathai.com,
+ff2c7061-1dd,DataRobot,saas,1001-5000,"Boston, MA",3,hiring_ai_engineer; hiring_ml_engineer; hiring_pm_ai,79,WARM - Strong candidate,drafted,,,,Saw you're hiring AI Engineer — happy to help accelerate,"Hi there,
+
+I noticed DataRobot is currently hiring for a AI Engineer position. That's a strong signa",2026-09-19T13:49:20.775552,2026-09-19T13:49:20.777362,,,,Python; R; AWS; Kubernetes; Docker; Spark,series g,,,,datarobot.com,
+a20b6be3-dcb,Cresta,saas,201-1000,"San Francisco, CA",2,hiring_ai_engineer; hiring_ml_engineer,88,HOT - Priority outreach,drafted,,,,Saw you're hiring AI Engineer - LLMs — happy to help accelerate,"Hi there,
+
+I noticed Cresta is currently hiring for a AI Engineer - LLMs position. That's a strong s",2026-09-19T13:49:20.775555,2026-09-19T13:49:20.777374,,,,Python; PyTorch; AWS; Kubernetes; NLP; LLMs,series c,,,,cresta.com,
+0bf0a142-605,Samsara,logistics,1001-5000,"San Francisco, CA",2,hiring_ml_engineer; hiring_ai_engineer,86,HOT - Priority outreach,drafted,,,,Saw you're hiring ML Engineer - IoT — happy to help accelerate,"Hi there,
+
+I noticed Samsara is currently hiring for a ML Engineer - IoT position. That's a strong s",2026-09-19T13:49:20.775559,2026-09-19T13:49:20.777387,,,,Python; Go; AWS; Kafka; IoT; Kubernetes; Spark,public,,,,samsara.com,
+6b7b1e55-ea1,Nuro,logistics,1001-5000,"Mountain View, CA",3,hiring_ai_engineer; hiring_ml_engineer; hiring_automation_engineer,88,HOT - Priority outreach,drafted,,,,Saw you're hiring AI Planning Engineer — happy to help accelerate,"Hi there,
+
+I noticed Nuro is currently hiring for a AI Planning Engineer position. That's a strong s",2026-09-19T13:49:20.775563,2026-09-19T13:49:20.777400,,,,Python; C++; ROS; Computer Vision; TensorFlow; Kubernetes,series d,,,,nuro.ai,

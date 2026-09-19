@@ -1,0 +1,1212 @@
+{
+  "exported_at": "2026-09-19T13:49:20.777755",
+  "total_leads": 12,
+  "leads": [
+    {
+      "id": "22943a6c-32d",
+      "company": {
+        "name": "Citi",
+        "website": "citi.com",
+        "industry": "finance",
+        "company_size": "5000+",
+        "location": "New York, NY",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "SQL",
+          "AWS",
+          "Kubernetes",
+          "Spark",
+          "Airflow",
+          "Kafka"
+        ],
+        "funding_stage": "public",
+        "revenue_range": null,
+        "description": "Global investment bank and financial services corporation actively expanding AI/ML teams for fraud detection, trading algorithms, and customer service automation."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.AI_ENGINEER",
+          "source_url": "linkedin.com/jobs/citi-ai-engineer",
+          "source_platform": "linkedin",
+          "job_title": "AI Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759023",
+          "salary_range": "$150K-$210K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.ML_ENGINEER",
+          "source_url": "linkedin.com/jobs/citi-mle",
+          "source_platform": "linkedin",
+          "job_title": "Machine Learning Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759033",
+          "salary_range": "$160K-$220K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.DATA_SCIENTIST",
+          "source_url": "glassdoor.com/citi-data-scientist",
+          "source_platform": "glassdoor",
+          "job_title": "Data Scientist",
+          "discovered_date": "2026-09-19T13:49:20.759035",
+          "salary_range": "$130K-$180K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 85,
+        "hiring_signal_score": 25,
+        "company_size_score": 10,
+        "tech_stack_score": 15,
+        "funding_growth_score": 10,
+        "industry_fit_score": 15,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 3,
+            "signals": [
+              "hiring_ai_engineer (linkedin)",
+              "hiring_ml_engineer (linkedin)",
+              "hiring_data_scientist (glassdoor)"
+            ]
+          },
+          "company_size": {
+            "size": "5000+",
+            "score": 10
+          },
+          "tech_stack": {
+            "count": 7,
+            "top_tech": [
+              "Python",
+              "SQL",
+              "AWS",
+              "Kubernetes",
+              "Spark"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "public"
+          },
+          "industry_fit": {
+            "industry": "finance"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed Citi is currently hiring for a AI Engineer position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like Citi bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size finance firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring AI Engineer \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775497",
+      "updated_at": "2026-09-19T13:49:20.777229",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "862437d0-5b3",
+      "company": {
+        "name": "State Farm",
+        "website": "statefarm.com",
+        "industry": "insurance",
+        "company_size": "5000+",
+        "location": "Bloomington, IL",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "SQL",
+          "Azure",
+          "Guidewire",
+          "RPA",
+          "Salesforce"
+        ],
+        "funding_stage": "public",
+        "revenue_range": null,
+        "description": "Insurance and financial services company with major AI initiatives in claims automation, underwriting, and customer service."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.AUTOMATION_ENGINEER",
+          "source_url": "linkedin.com/jobs/statefarm-automation",
+          "source_platform": "linkedin",
+          "job_title": "Automation Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759037",
+          "salary_range": "$110K-$150K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.RPA_DEVELOPER",
+          "source_url": "indeed.com/statefarm-rpa",
+          "source_platform": "indeed",
+          "job_title": "RPA Developer",
+          "discovered_date": "2026-09-19T13:49:20.759038",
+          "salary_range": "$90K-$120K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 79,
+        "hiring_signal_score": 25,
+        "company_size_score": 10,
+        "tech_stack_score": 10,
+        "funding_growth_score": 10,
+        "industry_fit_score": 14,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 2,
+            "signals": [
+              "hiring_automation_engineer (linkedin)",
+              "hiring_rpa_developer (indeed)"
+            ]
+          },
+          "company_size": {
+            "size": "5000+",
+            "score": 10
+          },
+          "tech_stack": {
+            "count": 6,
+            "top_tech": [
+              "Python",
+              "SQL",
+              "Azure",
+              "Guidewire",
+              "RPA"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "public"
+          },
+          "industry_fit": {
+            "industry": "insurance"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI was looking at State Farm's engineering setup \u2014 particularly your Python infrastructure. It's a great foundation for layering AI agents on top.\n\nCompanies with mature Python deployments tend to get the fastest ROI from AI automation because:\n1. The data pipelines are already in place\n2. Your team understands API-first architecture\n3. Integration points are well-documented\n\nWe've built AI agents that plug directly into stacks like yours, handling tasks like:\n- Intelligent document processing\n- Workflow orchestration\n- Customer-facing chat/voice agents\n- Data pipeline monitoring and remediation\n\nWould you be open to a 15-minute technical conversation? I'd love to share what's possible with your current setup.\n\nBest,\nYour Name",
+      "outreach_subject": "Your Python stack + AI agents",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775518",
+      "updated_at": "2026-09-19T13:49:20.777258",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "1a32a911-5f7",
+      "company": {
+        "name": "Atlassian",
+        "website": "atlassian.com",
+        "industry": "saas",
+        "company_size": "5000+",
+        "location": "San Francisco, CA",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "Java",
+          "AWS",
+          "Kubernetes",
+          "PostgreSQL",
+          "React",
+          "GraphQL"
+        ],
+        "funding_stage": "public",
+        "revenue_range": null,
+        "description": "Collaboration software company with growing AI team focused on intelligent features across Jira, Confluence, and other products."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.AI_ENGINEER",
+          "source_url": "linkedin.com/jobs/atlassian-ai",
+          "source_platform": "linkedin",
+          "job_title": "AI Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759039",
+          "salary_range": "$180K-$260K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.ML_ENGINEER",
+          "source_url": "linkedin.com/jobs/atlassian-mle",
+          "source_platform": "linkedin",
+          "job_title": "Senior ML Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759040",
+          "salary_range": "$200K-$280K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.PRODUCT_MANAGER_AI",
+          "source_url": "glassdoor.com/atlassian-pm-ai",
+          "source_platform": "glassdoor",
+          "job_title": "Product Manager, AI",
+          "discovered_date": "2026-09-19T13:49:20.759041",
+          "salary_range": "$170K-$230K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 78,
+        "hiring_signal_score": 25,
+        "company_size_score": 10,
+        "tech_stack_score": 13,
+        "funding_growth_score": 10,
+        "industry_fit_score": 10,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 3,
+            "signals": [
+              "hiring_ai_engineer (linkedin)",
+              "hiring_ml_engineer (linkedin)",
+              "hiring_pm_ai (glassdoor)"
+            ]
+          },
+          "company_size": {
+            "size": "5000+",
+            "score": 10
+          },
+          "tech_stack": {
+            "count": 7,
+            "top_tech": [
+              "Python",
+              "Java",
+              "AWS",
+              "Kubernetes",
+              "PostgreSQL"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "public"
+          },
+          "industry_fit": {
+            "industry": "saas"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed Atlassian is currently hiring for a AI Engineer position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like Atlassian bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size saas firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring AI Engineer \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775528",
+      "updated_at": "2026-09-19T13:49:20.777277",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "09b85120-4de",
+      "company": {
+        "name": "Lenovo",
+        "website": "lenovo.com",
+        "industry": "manufacturing",
+        "company_size": "5000+",
+        "location": "Morrisville, NC",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "C++",
+          "Azure",
+          "IoT",
+          "SCADA",
+          "SAP"
+        ],
+        "funding_stage": "public",
+        "revenue_range": null,
+        "description": "Global technology manufacturer investing in AI for supply chain optimization, quality control, and predictive maintenance."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.AI_ENGINEER",
+          "source_url": "linkedin.com/jobs/lenovo-ai",
+          "source_platform": "linkedin",
+          "job_title": "AI Solutions Architect",
+          "discovered_date": "2026-09-19T13:49:20.759042",
+          "salary_range": "$140K-$190K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.ML_ENGINEER",
+          "source_url": "indeed.com/lenovo-mle",
+          "source_platform": "indeed",
+          "job_title": "Computer Vision Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759044",
+          "salary_range": "$130K-$175K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 78,
+        "hiring_signal_score": 25,
+        "company_size_score": 10,
+        "tech_stack_score": 10,
+        "funding_growth_score": 10,
+        "industry_fit_score": 13,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 2,
+            "signals": [
+              "hiring_ai_engineer (linkedin)",
+              "hiring_ml_engineer (indeed)"
+            ]
+          },
+          "company_size": {
+            "size": "5000+",
+            "score": 10
+          },
+          "tech_stack": {
+            "count": 6,
+            "top_tech": [
+              "Python",
+              "C++",
+              "Azure",
+              "IoT",
+              "SCADA"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "public"
+          },
+          "industry_fit": {
+            "industry": "manufacturing"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed Lenovo is currently hiring for a AI Solutions Architect position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like Lenovo bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size manufacturing firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring AI Solutions Architect \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775533",
+      "updated_at": "2026-09-19T13:49:20.777293",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "15a64dca-598",
+      "company": {
+        "name": "Leidos",
+        "website": "leidos.com",
+        "industry": "consulting",
+        "company_size": "5000+",
+        "location": "Reston, VA",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "R",
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Spark"
+        ],
+        "funding_stage": "public",
+        "revenue_range": null,
+        "description": "Defense, aviation, and IT services contractor building AI solutions for government and enterprise clients."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.AI_ENGINEER",
+          "source_url": "linkedin.com/jobs/leidos-ai",
+          "source_platform": "linkedin",
+          "job_title": "AI Engineer - Defense",
+          "discovered_date": "2026-09-19T13:49:20.759045",
+          "salary_range": "$130K-$180K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.AI_CONSULTANT",
+          "source_url": "glassdoor.com/leidos-ai-consultant",
+          "source_platform": "glassdoor",
+          "job_title": "AI Consultant",
+          "discovered_date": "2026-09-19T13:49:20.759046",
+          "salary_range": "$120K-$165K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 79,
+        "hiring_signal_score": 25,
+        "company_size_score": 10,
+        "tech_stack_score": 15,
+        "funding_growth_score": 10,
+        "industry_fit_score": 9,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 2,
+            "signals": [
+              "hiring_ai_engineer (linkedin)",
+              "hiring_ai_consultant (glassdoor)"
+            ]
+          },
+          "company_size": {
+            "size": "5000+",
+            "score": 10
+          },
+          "tech_stack": {
+            "count": 6,
+            "top_tech": [
+              "Python",
+              "R",
+              "AWS",
+              "Azure",
+              "Kubernetes"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "public"
+          },
+          "industry_fit": {
+            "industry": "consulting"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed Leidos is currently hiring for a AI Engineer - Defense position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like Leidos bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size consulting firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring AI Engineer - Defense \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775538",
+      "updated_at": "2026-09-19T13:49:20.777308",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "c4130949-aab",
+      "company": {
+        "name": "Accenture",
+        "website": "accenture.com",
+        "industry": "consulting",
+        "company_size": "5000+",
+        "location": "Dublin, Ireland / New York, NY",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "R",
+          "AWS",
+          "Azure",
+          "GCP",
+          "SAP",
+          "Salesforce"
+        ],
+        "funding_stage": "public",
+        "revenue_range": null,
+        "description": "Global professional services company with dedicated AI practice implementing AI automation across enterprise clients."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.CHIEF_AI_OFFICER",
+          "source_url": "linkedin.com/jobs/accenture-caio",
+          "source_platform": "linkedin",
+          "job_title": "Managing Director, AI",
+          "discovered_date": "2026-09-19T13:49:20.759047",
+          "salary_range": "$250K-$400K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.AI_ENGINEER",
+          "source_url": "linkedin.com/jobs/accenture-ai-engineer",
+          "source_platform": "linkedin",
+          "job_title": "AI Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759048",
+          "salary_range": "$140K-$200K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.AI_CONSULTANT",
+          "source_url": "indeed.com/accenture-ai-consultant",
+          "source_platform": "indeed",
+          "job_title": "AI Strategy Consultant",
+          "discovered_date": "2026-09-19T13:49:20.759049",
+          "salary_range": "$130K-$190K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 74,
+        "hiring_signal_score": 25,
+        "company_size_score": 10,
+        "tech_stack_score": 10,
+        "funding_growth_score": 10,
+        "industry_fit_score": 9,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 3,
+            "signals": [
+              "hiring_chief_ai_officer (linkedin)",
+              "hiring_ai_engineer (linkedin)",
+              "hiring_ai_consultant (indeed)"
+            ]
+          },
+          "company_size": {
+            "size": "5000+",
+            "score": 10
+          },
+          "tech_stack": {
+            "count": 7,
+            "top_tech": [
+              "Python",
+              "R",
+              "AWS",
+              "Azure",
+              "GCP"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "public"
+          },
+          "industry_fit": {
+            "industry": "consulting"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed Accenture is currently hiring for a Managing Director, AI position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like Accenture bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size consulting firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring Managing Director, AI \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775542",
+      "updated_at": "2026-09-19T13:49:20.777322",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "dbd6be0e-397",
+      "company": {
+        "name": "Automated Insights",
+        "website": "automatedinsights.com",
+        "industry": "saas",
+        "company_size": "51-200",
+        "location": "Durham, NC",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "AWS",
+          "Natural Language Generation",
+          "APIs",
+          "PostgreSQL"
+        ],
+        "funding_stage": "acquired",
+        "revenue_range": null,
+        "description": "AI-powered natural language generation platform. Hiring ML engineers to scale content automation capabilities."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.ML_ENGINEER",
+          "source_url": "linkedin.com/jobs/ai-mle",
+          "source_platform": "linkedin",
+          "job_title": "ML Engineer - NLP",
+          "discovered_date": "2026-09-19T13:49:20.759050",
+          "salary_range": "$120K-$160K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 72,
+        "hiring_signal_score": 22,
+        "company_size_score": 12,
+        "tech_stack_score": 10,
+        "funding_growth_score": 8,
+        "industry_fit_score": 10,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 1,
+            "signals": [
+              "hiring_ml_engineer (linkedin)"
+            ]
+          },
+          "company_size": {
+            "size": "51-200",
+            "score": 12
+          },
+          "tech_stack": {
+            "count": 5,
+            "top_tech": [
+              "Python",
+              "AWS",
+              "Natural Language Generation",
+              "APIs",
+              "PostgreSQL"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "acquired"
+          },
+          "industry_fit": {
+            "industry": "saas"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed Automated Insights is currently hiring for a ML Engineer - NLP position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like Automated Insights bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size saas firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring ML Engineer - NLP \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775545",
+      "updated_at": "2026-09-19T13:49:20.777336",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "3e15ff8f-da2",
+      "company": {
+        "name": "PathAI",
+        "website": "pathai.com",
+        "industry": "healthcare",
+        "company_size": "201-1000",
+        "location": "Boston, MA",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "PyTorch",
+          "AWS",
+          "Computer Vision",
+          "Kubernetes"
+        ],
+        "funding_stage": "series c",
+        "revenue_range": null,
+        "description": "AI-powered pathology platform. Actively hiring ML engineers to build diagnostic AI agents for clinical labs."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.ML_ENGINEER",
+          "source_url": "linkedin.com/jobs/pathai-mle",
+          "source_platform": "linkedin",
+          "job_title": "Senior ML Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759051",
+          "salary_range": "$180K-$240K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.AI_ENGINEER",
+          "source_url": "linkedin.com/jobs/pathai-ai-eng",
+          "source_platform": "linkedin",
+          "job_title": "AI Infrastructure Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759052",
+          "salary_range": "$170K-$220K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 93,
+        "hiring_signal_score": 25,
+        "company_size_score": 15,
+        "tech_stack_score": 15,
+        "funding_growth_score": 13,
+        "industry_fit_score": 15,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 2,
+            "signals": [
+              "hiring_ml_engineer (linkedin)",
+              "hiring_ai_engineer (linkedin)"
+            ]
+          },
+          "company_size": {
+            "size": "201-1000",
+            "score": 15
+          },
+          "tech_stack": {
+            "count": 5,
+            "top_tech": [
+              "Python",
+              "PyTorch",
+              "AWS",
+              "Computer Vision",
+              "Kubernetes"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "series c"
+          },
+          "industry_fit": {
+            "industry": "healthcare"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed PathAI is currently hiring for a Senior ML Engineer position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like PathAI bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size healthcare firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring Senior ML Engineer \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775549",
+      "updated_at": "2026-09-19T13:49:20.777349",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "ff2c7061-1dd",
+      "company": {
+        "name": "DataRobot",
+        "website": "datarobot.com",
+        "industry": "saas",
+        "company_size": "1001-5000",
+        "location": "Boston, MA",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "R",
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Spark"
+        ],
+        "funding_stage": "series g",
+        "revenue_range": null,
+        "description": "Enterprise AI platform building AutoML tools. Expanding team for agentic AI capabilities."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.AI_ENGINEER",
+          "source_url": "linkedin.com/jobs/datarobot-ai",
+          "source_platform": "linkedin",
+          "job_title": "AI Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759053",
+          "salary_range": "$170K-$230K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.ML_ENGINEER",
+          "source_url": "glassdoor.com/datarobot-mle",
+          "source_platform": "glassdoor",
+          "job_title": "ML Platform Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759054",
+          "salary_range": "$160K-$210K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.PRODUCT_MANAGER_AI",
+          "source_url": "indeed.com/datarobot-pm-ai",
+          "source_platform": "indeed",
+          "job_title": "Product Manager, Agentic AI",
+          "discovered_date": "2026-09-19T13:49:20.759055",
+          "salary_range": "$150K-$200K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 79,
+        "hiring_signal_score": 25,
+        "company_size_score": 13,
+        "tech_stack_score": 15,
+        "funding_growth_score": 6,
+        "industry_fit_score": 10,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 3,
+            "signals": [
+              "hiring_ai_engineer (linkedin)",
+              "hiring_ml_engineer (glassdoor)",
+              "hiring_pm_ai (indeed)"
+            ]
+          },
+          "company_size": {
+            "size": "1001-5000",
+            "score": 13
+          },
+          "tech_stack": {
+            "count": 6,
+            "top_tech": [
+              "Python",
+              "R",
+              "AWS",
+              "Kubernetes",
+              "Docker"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "series g"
+          },
+          "industry_fit": {
+            "industry": "saas"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed DataRobot is currently hiring for a AI Engineer position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like DataRobot bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size saas firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring AI Engineer \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775552",
+      "updated_at": "2026-09-19T13:49:20.777362",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "a20b6be3-dcb",
+      "company": {
+        "name": "Cresta",
+        "website": "cresta.com",
+        "industry": "saas",
+        "company_size": "201-1000",
+        "location": "San Francisco, CA",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "PyTorch",
+          "AWS",
+          "Kubernetes",
+          "NLP",
+          "LLMs"
+        ],
+        "funding_stage": "series c",
+        "revenue_range": null,
+        "description": "AI contact center platform. Hiring AI engineers to build real-time agent assistance and automation."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.AI_ENGINEER",
+          "source_url": "linkedin.com/jobs/cresta-ai",
+          "source_platform": "linkedin",
+          "job_title": "AI Engineer - LLMs",
+          "discovered_date": "2026-09-19T13:49:20.759056",
+          "salary_range": "$180K-$250K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.ML_ENGINEER",
+          "source_url": "linkedin.com/jobs/cresta-mle",
+          "source_platform": "linkedin",
+          "job_title": "Applied ML Scientist",
+          "discovered_date": "2026-09-19T13:49:20.759057",
+          "salary_range": "$190K-$260K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 88,
+        "hiring_signal_score": 25,
+        "company_size_score": 15,
+        "tech_stack_score": 15,
+        "funding_growth_score": 13,
+        "industry_fit_score": 10,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 2,
+            "signals": [
+              "hiring_ai_engineer (linkedin)",
+              "hiring_ml_engineer (linkedin)"
+            ]
+          },
+          "company_size": {
+            "size": "201-1000",
+            "score": 15
+          },
+          "tech_stack": {
+            "count": 6,
+            "top_tech": [
+              "Python",
+              "PyTorch",
+              "AWS",
+              "Kubernetes",
+              "NLP"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "series c"
+          },
+          "industry_fit": {
+            "industry": "saas"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed Cresta is currently hiring for a AI Engineer - LLMs position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like Cresta bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size saas firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring AI Engineer - LLMs \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775555",
+      "updated_at": "2026-09-19T13:49:20.777374",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "0bf0a142-605",
+      "company": {
+        "name": "Samsara",
+        "website": "samsara.com",
+        "industry": "logistics",
+        "company_size": "1001-5000",
+        "location": "San Francisco, CA",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "Go",
+          "AWS",
+          "Kafka",
+          "IoT",
+          "Kubernetes",
+          "Spark"
+        ],
+        "funding_stage": "public",
+        "revenue_range": null,
+        "description": "IoT platform for fleet and industrial operations. AI team focused on predictive maintenance and safety automation."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.ML_ENGINEER",
+          "source_url": "linkedin.com/jobs/samsara-mle",
+          "source_platform": "linkedin",
+          "job_title": "ML Engineer - IoT",
+          "discovered_date": "2026-09-19T13:49:20.759058",
+          "salary_range": "$170K-$230K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.AI_ENGINEER",
+          "source_url": "indeed.com/samsara-ai-eng",
+          "source_platform": "indeed",
+          "job_title": "AI Engineer - Edge",
+          "discovered_date": "2026-09-19T13:49:20.759059",
+          "salary_range": "$160K-$220K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 86,
+        "hiring_signal_score": 25,
+        "company_size_score": 13,
+        "tech_stack_score": 15,
+        "funding_growth_score": 10,
+        "industry_fit_score": 13,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 2,
+            "signals": [
+              "hiring_ml_engineer (linkedin)",
+              "hiring_ai_engineer (indeed)"
+            ]
+          },
+          "company_size": {
+            "size": "1001-5000",
+            "score": 13
+          },
+          "tech_stack": {
+            "count": 7,
+            "top_tech": [
+              "Python",
+              "Go",
+              "AWS",
+              "Kafka",
+              "IoT"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "public"
+          },
+          "industry_fit": {
+            "industry": "logistics"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed Samsara is currently hiring for a ML Engineer - IoT position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like Samsara bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size logistics firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring ML Engineer - IoT \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775559",
+      "updated_at": "2026-09-19T13:49:20.777387",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    },
+    {
+      "id": "6b7b1e55-ea1",
+      "company": {
+        "name": "Nuro",
+        "website": "nuro.ai",
+        "industry": "logistics",
+        "company_size": "1001-5000",
+        "location": "Mountain View, CA",
+        "glassdoor_rating": null,
+        "linkedin_url": null,
+        "indeed_url": null,
+        "tech_stack": [
+          "Python",
+          "C++",
+          "ROS",
+          "Computer Vision",
+          "TensorFlow",
+          "Kubernetes"
+        ],
+        "funding_stage": "series d",
+        "revenue_range": null,
+        "description": "Autonomous delivery vehicle company. Expanding AI/ML engineering for perception and planning systems."
+      },
+      "hiring_signals": [
+        {
+          "signal_type": "HiringSignal.AI_ENGINEER",
+          "source_url": "linkedin.com/jobs/nuro-ai",
+          "source_platform": "linkedin",
+          "job_title": "AI Planning Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759060",
+          "salary_range": "$190K-$270K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.ML_ENGINEER",
+          "source_url": "linkedin.com/jobs/nuro-mle",
+          "source_platform": "linkedin",
+          "job_title": "Perception Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759061",
+          "salary_range": "$180K-$250K",
+          "is_remote": false
+        },
+        {
+          "signal_type": "HiringSignal.AUTOMATION_ENGINEER",
+          "source_url": "glassdoor.com/nuro-automation",
+          "source_platform": "glassdoor",
+          "job_title": "Autonomy Test Engineer",
+          "discovered_date": "2026-09-19T13:49:20.759063",
+          "salary_range": "$150K-$200K",
+          "is_remote": false
+        }
+      ],
+      "lead_score": {
+        "total_score": 88,
+        "hiring_signal_score": 25,
+        "company_size_score": 13,
+        "tech_stack_score": 15,
+        "funding_growth_score": 12,
+        "industry_fit_score": 13,
+        "recency_score": 10,
+        "breakdown": {
+          "hiring_signals": {
+            "count": 3,
+            "signals": [
+              "hiring_ai_engineer (linkedin)",
+              "hiring_ml_engineer (linkedin)",
+              "hiring_automation_engineer (glassdoor)"
+            ]
+          },
+          "company_size": {
+            "size": "1001-5000",
+            "score": 13
+          },
+          "tech_stack": {
+            "count": 6,
+            "top_tech": [
+              "Python",
+              "C++",
+              "ROS",
+              "Computer Vision",
+              "TensorFlow"
+            ]
+          },
+          "funding_growth": {
+            "funding_stage": "series d"
+          },
+          "industry_fit": {
+            "industry": "logistics"
+          },
+          "recency": {
+            "assessment": "All signals discovered within search window"
+          }
+        }
+      },
+      "status": "drafted",
+      "outreach_message": "Hi there,\n\nI noticed Nuro is currently hiring for a AI Planning Engineer position. That's a strong signal you're investing in AI/automation capabilities \u2014 which is exactly the kind of work we specialize in.\n\nWe help companies like Nuro bridge the gap between hiring and production AI systems. While you build out your team, we can deliver working AI agents and automation workflows in weeks, not months.\n\nA few recent examples:\n- Built a document-processing agent for a mid-size logistics firm that cut processing time by 70%\n- Automated customer onboarding workflows for a Series B fintech company\n- Created an internal research agent that saves a 20-person data team 10+ hours/week\n\nWould it make sense to hop on a 15-minute call this week? I'd love to learn about your AI roadmap and see if there's a way to help.\n\nBest,\nYour Name\nAI Automation Consultant",
+      "outreach_subject": "Saw you're hiring AI Planning Engineer \u2014 happy to help accelerate",
+      "contact_person": null,
+      "contact_title": null,
+      "contact_linkedin": null,
+      "notes": [],
+      "created_at": "2026-09-19T13:49:20.775563",
+      "updated_at": "2026-09-19T13:49:20.777400",
+      "reviewed_by": null,
+      "review_date": null,
+      "review_notes": null
+    }
+  ]
+}
