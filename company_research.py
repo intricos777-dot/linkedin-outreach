@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Company research module - researches tech stack, funding, and signals."""
 
 import re

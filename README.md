@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # LinkedIn Lead Research & Outreach Management System
 
 A legitimate lead research and outreach management system for AI automation services.

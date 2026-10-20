@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Review queue system - manages human approval workflow for outreach messages."""
 
 import os

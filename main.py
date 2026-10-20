@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Lead Research & Outreach Management System - Main Orchestrator.
 
 Usage:

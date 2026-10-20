@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Lead scoring engine - scores leads based on multiple weighted signals."""
 
 from models import Lead, LeadScore, HiringSignal, Company
